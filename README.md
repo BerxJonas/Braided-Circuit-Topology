@@ -1,5 +1,6 @@
 # Braided-Circuit-Topology
-Braided Circuit Topology framework for multiple polymer molecules analysis 
+Braided Circuit Topology framework for multiple polymer molecules analysis.
+
 Note that this is a copy of the project found at https://github.com/circuittopology/braided_circuit_topology, which I wrote and maintain
 
 Algorithmic flow of the different parts of the simulation:
